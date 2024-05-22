@@ -13,9 +13,12 @@
 
 <div align="center">
 
-百川API支持搜索增强和192K长窗口，新增百川搜索增强知识库、限时免费！
+<div align="center">
+<img src="https://github.com/baichuan-inc/Baichuan2/blob/main/media/xy.jpeg?raw=true" width=20% />
+</div>
 
-🚀 [百川53B大模型在线对话平台](https://www.baichuan-ai.com/)已正式向公众开放 🎉
+🚀 百小应APP已正式上线！懂搜索、会提问的AI助手，各大应用商店搜索百小应下载，欢迎下载体验 🎉
+
 
 [![license](https://img.shields.io/github/license/modelscope/modelscope.svg)](https://github.com/baichuan-inc/Baichuan2/blob/main/LICENSE)
 
